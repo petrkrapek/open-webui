@@ -14,7 +14,7 @@
 	"{{COUNT}} extracted lines": "",
 	"{{COUNT}} hidden lines": "{{COUNT}} skrytých řádků",
 	"{{COUNT}} Replies": "{{COUNT}} odpovědí",
-	"{{COUNT}} Sources": "",
+	"{{COUNT}} Sources": "Zdroje",
 	"{{COUNT}} words": "{{COUNT}} slov",
 	"{{LOCALIZED_DATE}} at {{LOCALIZED_TIME}}": "",
 	"{{model}} download has been canceled": "Stažení modelu {{model}} bylo zrušeno",
